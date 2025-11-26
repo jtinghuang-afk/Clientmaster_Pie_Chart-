@@ -1,0 +1,5 @@
+{
+  "name": "SatCom 3D Viz",
+  "description": "Interactive 3D-style data visualization dashboard for satellite communication device distribution with simulation capabilities.",
+  "requestFramePermissions": []
+}
